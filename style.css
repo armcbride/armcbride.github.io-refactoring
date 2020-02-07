@@ -26,6 +26,7 @@ body
 span 
 {
     color: #d9dcd6;
+    font-style: bold;
 }
 
 .header div 
@@ -109,6 +110,7 @@ p
     margin-bottom: 20px;
     font-size: 36px;
     }
+
 /* Sidebar */
  .benefits 
     {
