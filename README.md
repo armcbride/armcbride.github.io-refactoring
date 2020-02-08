@@ -9,3 +9,11 @@
 -organized classes to descend in order of appearance on webpage.
 
 -added comments detailing section purposes.
+
+Technologies
+
+-HTML, CSS
+
+Contributors
+
+Annaruth McBride
