@@ -9,3 +9,15 @@
 -organized classes to descend in order of appearance on webpage.
 
 -added comments detailing section purposes.
+
+# Technologies
+- HTML
+- CSS
+
+# Contributors
+- armcbride
+
+# User Interface 
+<img src="./images/refactoring-screenshot1.png">
+<hr>
+<img src="./images/refactoring-screenshot2.png">
