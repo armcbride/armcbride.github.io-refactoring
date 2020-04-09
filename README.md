@@ -10,7 +10,7 @@
 
 -added comments detailing section purposes.
 
-<<<<<<< HEAD
+
 # Technologies
 - HTML
 - CSS
@@ -19,9 +19,9 @@
 - armcbride
 
 # User Interface 
-<img src="./images/refactoring-screenshot1.png">
+![front-page screenshot](images/refactoring-screenshot1.png)
 <hr>
-<img src="./images/refactoring-screenshot2.png">
+![main-body screenshot](images/refactoring-screenshot2.png)
 
 # Live-Link
 <a href="https://armcbride.github.io/armcbride.github.io-refactoring/"> Visit here</a>
