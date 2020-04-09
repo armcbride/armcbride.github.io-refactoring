@@ -19,9 +19,9 @@
 - armcbride
 
 # User Interface 
-![front-page screenshot](images/refactoring-screenshot1.png)
+![front-page screenshot](./images/refactoring-screenshot1.png)
 <hr>
-![main-body screenshot](images/refactoring-screenshot2.png)
+![main-body screenshot](./images/refactoring-screenshot2.png)
 
 # Live-Link
 <a href="https://armcbride.github.io/armcbride.github.io-refactoring/"> Visit here</a>
