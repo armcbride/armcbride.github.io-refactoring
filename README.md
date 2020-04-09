@@ -20,10 +20,9 @@
 
 # User Interface 
 
-![front-page](./images/refactoring-screenshot1.png)
+<img src="./images/refactoring-screenshot1.png" style="max-width:100%;">
 
-
-![main-body](./images/refactoring-screenshot2.png)
+<img src="./images/refactoring-screenshot1.png" style="max-width:100%;">
 
 # Live-Link
 <a href="https://armcbride.github.io/armcbride.github.io-refactoring/"> Visit here</a>
