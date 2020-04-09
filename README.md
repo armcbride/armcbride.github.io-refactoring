@@ -20,12 +20,12 @@
 
 # User Interface 
 
-<img src="./images/refactoring-screenshot1.png" style="max-width:100%;">
+<img src="./images/refactoring-screenshot1.PNG" style="max-width:100%;">
 
-<img src="./images/refactoring-screenshot1.png" style="max-width:100%;">
+<img src="./images/refactoring-screenshot2.PNG" style="max-width:100%;">
 
 # Live-Link
-<a href="https://armcbride.github.io/armcbride.github.io-refactoring/"> Visit here</a>
+Visit here: <a href="https://armcbride.github.io/armcbride.github.io-refactoring/">https://armcbride.github.io/armcbride.github.io-refactoring/</a>
 
 # License
 - MIT
